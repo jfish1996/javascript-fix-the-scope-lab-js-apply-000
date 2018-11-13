@@ -1,4 +1,4 @@
-var animal = (string)
+var animal = "dog"
 
 function myAnimal() {
   return (animal)
